@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tecnologías y Herramientas  
-![Lenguajes y Tecnologías](https://skillicons.dev/icons?i=js,ts,py,java,react,nodejs,aws,docker,git,github&perline=5)  
+![Lenguajes y Tecnologías](https://skillicons.dev/icons?i=js,ts,py,java,,nodejs,aws,python,sql,github&perline=5)  
 
 ---
 
