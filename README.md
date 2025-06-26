@@ -14,4 +14,4 @@ SOY ING SISTEMAS EN APRENDISAJE DE TODAS LAS LENGUAS DE PROGRAMACION
 
 - Lenguaje: `JavaScript` / `Python` / `Java`
 - Framework: `React` / `Django` / `Node.js`
-- Otros: `Bootstrap`, `MongoDB`, etc.
+- Otros: `html/sql /python"
