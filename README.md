@@ -1,4 +1,4 @@
-# ¡Hola, soy [ENRIQUE]! 👋
+# ¡Hola, soy ENRIQUE! 👋
 
 🚀 **Desarrollador/a [PAGINAS WED, DESARROLADOR DE DEV C++]**  
 📍 Ubicación: [Ciudad, País]  
@@ -24,10 +24,10 @@
 ---
 
 ## 📫 ¡Conéctate conmigo!  
-[![LinkedIn](https://pe.linkedin.com/in/jose-enrique-osores-gonzales-4371b636b)  
+[![LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)  
 
 ---
 
-⚡ **Fun Fact**: [Algo curioso sobre ti, ej: "me encnata dormir de lo mas  detallado"].  
+⚡ **Fun Fact**: [Algo curioso sobre mi, ej: "quiero aprender a gestionar los programas aprendiso a lo largo de esto resolucion exacta del aprendizaje de mi carrera universitaria "].  
