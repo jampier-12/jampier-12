@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tecnologías y Herramientas  
-![Lenguajes y Tecnologías](https://skillicons.dev/icons?i=js,visualstudio,java,SQL,nodejs,github&perline=5,google chrome)  
+![Lenguajes y Tecnologías](https://skillicons.dev/icons?i=js,visualstudio,java,SQL,nodejs,github&perline=5,googlechrome)  
 
 ---
 
