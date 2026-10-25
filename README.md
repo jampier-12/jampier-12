@@ -1,13 +1,13 @@
 # ¡Hola, soy ENRIQUE! 👋
 
 🚀 **Desarrollador/a [PAGINAS WED, DESARROLADOR DE DEV C++]**  
-📍 Ubicación: [Ciudad, País]  
+📍 Ubicación: [Huancayo]  
 💡 Pasión: [se nme da la progrmacion  para realizar diferentes tipos de lenguje]  
 
 ---
 
 ## 🔧 Tecnologías y Herramientas  
-![Lenguajes y Tecnologías](https://skillicons.dev/icons?i=js,visualstudio,java,SQL,nodejs,github&perline=5)  
+![Lenguajes y Tecnologías](https://skillicons.dev/icons?i=js,visualstudio,java,SQL,nodejs,github&perline=5,google chrome)  
 
 ---
 
@@ -24,7 +24,6 @@
 ---
 
 ## 📫 ¡Conéctate conmigo!  
-[![linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)  
 
